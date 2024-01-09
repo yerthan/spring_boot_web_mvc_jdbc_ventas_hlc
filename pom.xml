@@ -132,7 +132,6 @@
 					<propertiesEncoding>ISO-8859-1</propertiesEncoding>
 				</configuration>
 			</plugin>
-
 		</plugins>
 	</build>
 
